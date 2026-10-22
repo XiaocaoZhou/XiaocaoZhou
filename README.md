@@ -25,8 +25,7 @@ Specializing in **Recommender Systems**, Large-Scale Personalization, and Algori
 
 ### 📬 Get in Touch
 
-- 💼 **LinkedIn**: [linkedin.com/in/xiaocao-zhou](#) *(Replace with your actual LinkedIn URL)*
-- 📧 **Email**: xiaocao.zhou@example.com *(Replace with your email)*
+- 📧 **Email**: 410454124@qq.com
 
 ---
 

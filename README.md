@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Xiaocao Zhou 👋
 
-<!--
-**XiaocaoZhou/XiaocaoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineer** @ [Tubi](https://tubitv.com/)  
+Specializing in **Recommender Systems**, Large-Scale Personalization, and Algorithm Optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 **Current Focus**: Recommender System architectures, Candidate Generation (Retrieval), Ranking (CTR/CVR) models, and real-time inference optimization.
+- 💼 **Current Role**: Machine Learning Engineer at **Tubi**
+- 🎯 **Technical Interests**: Deep Learning, RecSys (Collaborative Filtering, GNNs, Multi-Task Learning), and LLM applications in Recommender Systems (LLM4Rec).
+- 💬 **Let's Connect**: Open to discussions on recommendation engineering, applied AI, and scaling machine learning systems.
+
+---
+
+### 🛠️ Skills & Tech Stack
+
+- **Languages**: Python, SQL, C++, Scala
+- **ML / DL Frameworks**: PyTorch, TensorFlow, Scikit-learn
+- **Big Data & Distributed Computing**: Apache Spark, Hive, Ray, Kafka
+- **Tools & MLOps**: Git, Docker, Kubernetes, Feature Stores, Model Serving
+
+---
+
+### 📬 Get in Touch
+
+- 💼 **LinkedIn**: [linkedin.com/in/xiaocao-zhou](#) *(Replace with your actual LinkedIn URL)*
+- 📧 **Email**: xiaocao.zhou@example.com *(Replace with your email)*
+
+---
+
+<p align="center">
+  <i>"Building scalable algorithms to connect users with content they love."</i>
+</p>
